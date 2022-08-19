@@ -1,4 +1,4 @@
-Dans cet article, nous parlerons de la gestion des exceptions en python. Nous parlerons des en quelques lignes des sujets suivants :
+Dans cet article, nous parlerons de la gestion des exceptions en python. Nous parlerons des exceptions en quelques lignes des sujets suivants :
 
 - Assertion
 - Exception
